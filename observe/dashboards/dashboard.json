@@ -1,5 +1,5 @@
 {
-  "dashboard":{
+  "dashboard": {
     "annotations": {
       "list": [
         {
@@ -1077,7 +1077,9 @@
     "timezone": "utc",
     "title": "TNS Demo Dashboard",
     "uid": "pe-demo-tns",
-    "version": 6,
+    "version": 1,
     "weekStart": ""
-  }
+  },
+  "uid": "pe-istio-performance-db",
+  "overwrite": true
 }

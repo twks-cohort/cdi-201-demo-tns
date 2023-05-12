@@ -3,5 +3,6 @@
     "app_replicas": 1,
     "db_replicxas": 1,
     "loadgen_replicas": 1,
-    "cluster": "prod-us-east-2"
+    "cluster": "prod-us-east-2",
+    "environment": "dev"
 }
